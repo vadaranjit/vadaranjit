@@ -1,6 +1,3 @@
-Sure! Here’s how you can update your README to include a clickable YouTube logo that redirects to your YouTube channel:
-
-```markdown
 <h2 align="left">Hi 👋! My name is Ranjit </h2>
 
 ###
@@ -52,6 +49,3 @@ Sure! Here’s how you can update your README to include a clickable YouTube log
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
-```
-
-This will make the YouTube logo clickable, and it will redirect to your YouTube channel when clicked.
