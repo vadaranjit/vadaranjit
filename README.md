@@ -44,6 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- Replace the link below with your generated snake animation link -->
+<img src="https://raw.githubusercontent.com/<your-username>/<your-repository>/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
