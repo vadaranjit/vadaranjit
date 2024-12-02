@@ -12,7 +12,7 @@ Hello! I'm **Ranjit**, a skilled **QA Automation Engineer** with 3.5 years of ex
 - **CI/CD**: Jenkins
 
 ## Featured GitHub Repositories
-### 1. BDD Framework https://github.com/username/repository1)](https://github.com/vadaranjit/BDD_FrameworkNew.git
+### 1. BDD Framework https://github.com/vadaranjit/BDD_FrameworkNew.git
 ### 1. TDD Framework https://github.com/vadaranjit/TDD_Framework.git
 
 ## Projects & Contributions
